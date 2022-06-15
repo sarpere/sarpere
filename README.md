@@ -1,7 +1,8 @@
 # Hi, I am Sarper
 I am Full-Stack developer. Web technologies :heart:
   
-  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sarpere.visitor-badge)
+
 ### Top Technologies  
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=plastic&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=plastic&labelColor=black&logo=react&logoColor=61DBFB)](#) 
