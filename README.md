@@ -9,7 +9,7 @@ I am Full-Stack developer. Web technologies :heart:
 [![Sass Badge](https://img.shields.io/badge/-Sass-61DBFB?style=plastic&labelColor=black&logo=Sass&logoColor=61DBFB)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=plastic&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Express Badge](https://img.shields.io/badge/-Express-61DBFB?style=plastic&labelColor=black&logo=express&logoColor=61DBFB)](#)
-[![Python Badge](https://img.shields.io/badge/-python-F0DB4F?style=plastic&labelColor=black&logo=python&logoColor=F0DB4F)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=plastic&labelColor=black&logo=python&logoColor=F0DB4F)](#)
 
 ### Github Summary 
 <div style="display:flex; flex-direction:row;">
