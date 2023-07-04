@@ -13,7 +13,7 @@ I am Full-Stack developer. Web technologies :heart:
 [![Express Badge](https://img.shields.io/badge/-Express-61DBFB?style=plastic&labelColor=black&logo=express&logoColor=61DBFB)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=plastic&labelColor=black&logo=python&logoColor=F0DB4F)](#)
 
-### Wist to start with
+### Wist To Start With
 <ul>
   <li>Vite</li>
   <li>SWC</li>
