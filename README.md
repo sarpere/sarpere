@@ -13,6 +13,14 @@ I am Full-Stack developer. Web technologies :heart:
 [![Express Badge](https://img.shields.io/badge/-Express-61DBFB?style=plastic&labelColor=black&logo=express&logoColor=61DBFB)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=plastic&labelColor=black&logo=python&logoColor=F0DB4F)](#)
 
+### Wist to start with
+<ul>
+  <li>Vite</li>
+  <li>SWC</li>
+  <li>Rollup</li>
+  <li>Go Lang</li>
+</ul>
+
 ### Github Summary 
 <div style="display:flex; flex-direction:row;">
   <img src="https://github-readme-stats.vercel.app/api?username=sarpere&show_icons=true&theme=gruvbox" alt="sarpere"  height="180px" /> 
